@@ -28,7 +28,7 @@ A deep neural network (DNN) framework integrated with transformers to model path
 Data download : https://drive.google.com/file/d/1jec7E9exzZIZqJvddlMIGZkwpDLyfQk4/view?usp=drive_link
 
 文件 scPDS.zip 包含所有的测试数据集。请解压该文件，并将主目录设置为 XX/scPDS/。
-## How to cite Scissor
+## How to cite scPDS
 Please cite the following manuscript:
 ## Usage
 * Usage：python scPDS.py
