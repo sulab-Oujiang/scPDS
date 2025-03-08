@@ -30,6 +30,8 @@ Data download : https://drive.google.com/file/d/1jec7E9exzZIZqJvddlMIGZkwpDLyfQk
 文件 scPDS.zip 包含所有的测试数据集。请解压该文件，并将主目录设置为 XX/scPDS/。
 ## How to cite scPDS
 Please cite the following manuscript:
+
+Yao Y, Xu Y, Zhang Y, et al. Single Cell Inference of Cancer Drug Response Using Pathway-Based Transformer Network. Small Methods(2025).
 ## Usage
 * Usage：python scPDS.py
 ```
